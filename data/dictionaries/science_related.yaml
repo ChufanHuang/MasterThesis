@@ -1,0 +1,448 @@
+# ========== 科学相关核心类别（is_science_related: True） ==========
+Chemtrails:
+  hashtags:
+  - '#chemtrail'
+  - '#chemtrails'
+  keywords_core:
+  - chemtrail
+  - chemtrails
+  is_science_related: True
+Geoengineering:
+  hashtags:
+  - '#geoengineering'
+  - '#weathermodification'
+  - '#weatherwarfare'
+  - '#srm'
+  - '#nexrad'
+  - '#lookup'
+  keywords_core:
+  - geoengineering
+  - weather modification
+  - weather warfare
+  - stratospheric aerosol injection
+  - srm
+  - nexrad
+  - lookup
+  is_science_related: True
+HAARP:
+  hashtags:
+  - '#haarp'
+  keywords_core:
+  - haarp
+  keywords_expanded:
+  - haarp weapon
+  - haarp weather control
+  is_science_related: True
+Directed Energy Weapons:
+  hashtags:
+  - '#directedenergyweapon'
+  - '#directedenergyweapons'
+  - '#dew'
+  - '#dewattacks'
+  keywords_core:
+  - directed energy weapon
+  - directed energy weapons
+  - dew attack
+  - dew attacks
+  - dew
+  is_science_related: True
+California Wildfires (DEW claims):
+  hashtags:
+  - '#californiafires'
+  - '#californiawildfires'
+  - '#hurricanemichael'
+  - '#hurricaneflorence'
+  keywords_core:
+  - california fires dew
+  - wildfire dew
+  - laser fires
+  - weaponized wildfire
+  is_science_related: True
+Climate Change Denial:
+  hashtags:
+  - '#climatechangehoax'
+  - '#globalwarminghoax'
+  - '#globalwarmingfraud'
+  - '#climategate'
+  keywords_core:
+  - climate change hoax
+  - global warming hoax
+  - global warming fraud
+  - climategate
+  is_science_related: True
+Flat Earth:
+  hashtags:
+  - '#flatearth'
+  - '#flatearthers'
+  - '#researchflatearth'
+  - '#globexit'
+  - '#domexit'
+  keywords_core:
+  - flat earth
+  - flat earth theory
+  - earth is flat
+  - globe hoax
+  - flatearth
+  - flatearthers
+  - researchflatearth
+  - globexit
+  - domexit
+  is_science_related: True
+NASA / Space Hoax:
+  hashtags:
+  - '#fakespace'
+  - '#moonhoax'
+  - '#moonlandinghoax'
+  - '#nasalies'
+  - '#marshoax'
+  - '#spacehoax'
+  keywords_core:
+  - nasa hoax
+  - nasa lies
+  - space is fake
+  - moon landing hoax
+  - apollo hoax
+  - mars hoax
+  - fakespace
+  - moonhoax
+  - moonlandinghoax
+  - nasalies
+  - marshoax
+  - spacehoax
+  is_science_related: True
+Anti_vaccination:
+  hashtags:
+  - '#antivax'
+  - '#antivaxxers'
+  - '#vaccineskill'
+  - '#vaccinelies'
+  - '#vaccineinjured'
+  - '#vaccinescauseautism'
+  - '#vaccinedamage'
+  keywords_core:
+  - anti vax
+  - antivax
+  - vaccines kill
+  - vaccine injured
+  - vaccines cause autism
+  - vaccine damage
+  - antivaxxers
+  - vaccineskill
+  - vaccinelies
+  - vaccineinjured
+  - vaccinescauseautism
+  - vaccinedamage
+  - vax harm
+  - vaccine fraud
+  is_science_related: True
+GMO_Monsanto_Glyphosate:
+  hashtags:
+  - '#gmo'
+  - '#monsanto'
+  - '#glyphosate'
+  - '#codexalimentarius'
+  - '#roundup'
+  - '#antigmo'
+  keywords_core:
+  - monsanto
+  - monsanto glyphosate
+  - glyphosate
+  - codex alimentarius
+  - gmo
+  - gmo poison
+  - codexalimentarius
+  - roundup
+  - antigmo
+  is_science_related: True
+Fluoride_Cancer_Misc:
+  hashtags:
+  - '#fluoride'
+  - '#cancer'
+  - '#flushot'
+  keywords_core:
+  - fluoride poison
+  - cancer cure suppressed
+  - fluoride
+  - cancer
+  - flushot
+  is_science_related: True
+5G:
+  hashtags:
+  - '#5g'
+  - '#stop5g'
+  - '#5gradiation'
+  - '#5gtowers'
+  - '#emf'
+  keywords_core:
+  - stop 5g
+  - 5g radiation
+  - 5g towers
+  - anti 5g
+  - 5g
+  - stop5g
+  - 5gradiation
+  - 5gtowers
+  - emf
+  keywords_expanded:
+  - 5g is a weapon
+  - 5g kills
+  - 5g causes cancer
+  is_science_related: True
+# ========== 非科学相关类别（is_science_related: False，仅降噪） ==========
+Scientism Skepticism:
+  hashtags:
+  - '#scientism'
+  keywords_core:
+  - scientism is a religion
+  - scientism
+  is_science_related: False
+MKUltra:
+  hashtags:
+  - '#mkultra'
+  - '#projectmkultra'
+  keywords_core:
+  - mkultra
+  - mk ultra
+  - mk-ultra
+  - projectmkultra
+  is_science_related: False
+Project Blue Beam:
+  hashtags:
+  - '#projectbluebeam'
+  keywords_core:
+  - project blue beam
+  - projectbluebeam
+  is_science_related: False
+Technocracy / Smart Grid:
+  hashtags:
+  - '#smartgrid'
+  - '#smartmeters'
+  - '#socialengineering'
+  - '#socialcrediting'
+  keywords_core:
+  - smart grid
+  - smart meters
+  - social engineering
+  - social credit
+  - smartgrid
+  - smartmeters
+  - socialengineering
+  - socialcrediting
+  is_science_related: False
+Security State / Policing:
+  hashtags:
+  - '#surveillance'
+  - '#policestate'
+  - '#police'
+  - '#fbi'
+  - '#cia'
+  - '#defense'
+  - '#military'
+  keywords_core:
+  - police state
+  - surveillance state
+  - surveillance
+  - policestate
+  - police
+  - fbi
+  - cia
+  - defense
+  - military
+  is_science_related: False
+# 以下非科学相关类别均保留原结构，仅添加is_science_related: False，不再逐一列出
+Mind Control (generic):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Transhumanism (frame):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Deep State:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+New World Order (NWO):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Global Elites / Families:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Agenda 21 / Depopulation:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Great Replacement / Kalergi Plan (flag):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+PNAC / Neocon Agenda:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+BigPharma_skepticism:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+False Flag (generic):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+9/11 Inside Job:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Pizzagate / Pedogate:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Event_Hoaxes_FalseFlags (non-9/11):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Media Manipulation / Censorship:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Platforms / BigTech:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Alt Media Outlets:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Leaks / WikiLeaks / Assange:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Hacktivism :: Anonymous_Collectives':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: Middle_East_and_Israel :: Israel_Palestine_Core':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: Middle_East_and_Israel :: Iran_Saudi_Gulf':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: US_Politics :: Trump_MAGA':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: US_Politics :: Democrats_DNC':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: US_Politics :: Clinton_Obama_Kavanaugh':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: US_Politics :: Federal_Power_and_Agencies':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: Europe_UK_EU :: Brexit_UK':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: Europe_UK_EU :: France_Germany_EU':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: Russia_and_Region :: Russia_Core':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: Russia_and_Region :: UK_Novichok_Skripal':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: Global_Governance_Blocs :: Alliances_Orgs':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Politics / Geopolitics :: Middle_East_and_Israel :: Syria_Context':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Illuminati:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Reptilians:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Religion / Vatican / Jesuit:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Religion / Christianity (broad):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Spirituality / Positive Slogans (low-signal):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+EndTheFed_and_FedReserve:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Taxation_Is_Theft:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Sound_Money_Crypto:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Government_As_Corporation:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Indigenous / Land:
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Rights & Liberty (broad context):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Identity :: Antisemitism_and_ZOG':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Identity :: Zionism_As_Conspiracy':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Identity :: Race_and_Radical_Frames':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'Identity :: Gender_and_Culture_Wars':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'People :: Political_Figures':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+'People :: Oligarchs_and_Families':
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+QAnon (meta):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False
+Truth community (meta):
+  hashtags: [...]
+  keywords_core: [...]
+  is_science_related: False

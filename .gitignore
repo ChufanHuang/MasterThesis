@@ -1,0 +1,50 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data files
+data/raw/*
+data/clean/*
+data/processed/*
+
+!data/raw/.gitkeep
+!data/clean/.gitkeep
+!data/processed/.gitkeep
+
+# Generated outputs
+results/
+outputs/
+logs/
+checkpoints/
+models/
+
+# Generated figures: ignore all by default
+figures/*
+!figures/.gitkeep
+!figures/selected_paper_figures/
+
+# Large or intermediate files
+*.csv
+*.xlsx
+*.pkl
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+
+# Keep dictionary files
+!data/dictionaries/
+!data/dictionaries/*.yaml
+!data/dictionaries/*.yml
+!data/dictionaries/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# System / IDE
+.DS_Store
+.idea/
