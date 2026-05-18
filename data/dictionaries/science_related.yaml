@@ -1,4 +1,4 @@
-# ========== 科学相关核心类别（is_science_related: True） ==========
+# ========== (is_science_related: True） ==========
 Chemtrails:
   hashtags:
   - '#chemtrail'
@@ -188,7 +188,7 @@ Fluoride_Cancer_Misc:
   - 5g kills
   - 5g causes cancer
   is_science_related: True
-# ========== 非科学相关类别（is_science_related: False，仅降噪） ==========
+# ========== （is_science_related: False） ==========
 Scientism Skepticism:
   hashtags:
   - '#scientism'
@@ -249,7 +249,7 @@ Security State / Policing:
   - defense
   - military
   is_science_related: False
-# 以下非科学相关类别均保留原结构，仅添加is_science_related: False，不再逐一列出
+# is_science_related: False
 Mind Control (generic):
   hashtags: [...]
   keywords_core: [...]
